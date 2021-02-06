@@ -1,0 +1,11 @@
+main.c:33:5:main	192	static
+main.c:105:6:I2C_WriteBlock	24	static
+main.c:113:6:I2C_ReadBlock	32	static
+main.c:121:6:I2C_Write	16	static
+main.c:139:8:I2C_Read	24	static
+main.c:172:6:Conf_I2C1	24	static
+main.c:189:6:Conf_USART3	24	static
+main.c:205:6:Conf_TIM3	24	static
+main.c:220:6:Conf_NVIC	16	static
+main.c:230:6:TIM3_Delay	16	static
+main.c:241:6:Print_USART3	16	static

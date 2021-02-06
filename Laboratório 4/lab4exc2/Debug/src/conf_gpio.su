@@ -1,0 +1,2 @@
+conf_gpio.c:3:6:Conf_GPIO	16	static
+conf_gpio.c:21:6:Conf_GPIO_Remap	16	static

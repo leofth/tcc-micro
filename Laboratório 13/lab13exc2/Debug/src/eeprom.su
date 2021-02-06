@@ -1,0 +1,6 @@
+eeprom.c:5:6:EEPROM_WriteBlock	24	static
+eeprom.c:13:6:EEPROM_ReadBlock	32	static
+eeprom.c:21:6:EEPROM_Write	16	static
+eeprom.c:39:8:EEPROM_Read	24	static
+eeprom.c:72:6:Conf_I2C1	24	static
+eeprom.c:89:6:TIM3_Delay	16	static

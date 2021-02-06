@@ -1,0 +1,2 @@
+stm32f1xx_it.c:7:6:TIM2_IRQHandler	16	static
+stm32f1xx_it.c:23:6:TIM3_IRQHandler	8	static

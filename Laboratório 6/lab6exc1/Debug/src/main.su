@@ -1,0 +1,8 @@
+main.c:29:5:main	80	static
+main.c:69:6:Conf_ADC	32	static
+main.c:94:6:Conf_TIM2	24	static
+main.c:111:6:Conf_NVIC	16	static
+main.c:121:6:Print_USART3	16	static
+main.c:130:6:Conf_USART3	24	static
+main.c:146:6:Conf_TIM3	24	static
+main.c:161:6:TIM3_Delay	16	static

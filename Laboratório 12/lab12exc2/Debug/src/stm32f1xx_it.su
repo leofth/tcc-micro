@@ -1,0 +1,5 @@
+stm32f1xx_it.c:14:6:TIM2_IRQHandler	8	static
+stm32f1xx_it.c:24:6:EXTI0_IRQHandler	8	static
+stm32f1xx_it.c:41:6:EXTI1_IRQHandler	8	static
+stm32f1xx_it.c:58:6:EXTI2_IRQHandler	8	static
+stm32f1xx_it.c:75:6:EXTI3_IRQHandler	8	static

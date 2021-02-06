@@ -1,0 +1,6 @@
+main.c:23:5:main	32	static
+main.c:70:6:Conf_ADC	32	static
+main.c:93:6:Conf_TIM2_OC	24	static
+main.c:103:6:Conf_TIM2	24	static
+main.c:118:6:Conf_TIM4	24	static
+main.c:134:6:Conf_NVIC	16	static

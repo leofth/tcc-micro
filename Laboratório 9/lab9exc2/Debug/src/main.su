@@ -1,0 +1,8 @@
+main.c:31:5:main	104	static
+main.c:58:9:BMP280_Transfer	16	static
+main.c:66:6:BMP280_Write	16	static
+main.c:77:6:BMP280_Read	24	static
+main.c:93:6:BMP280_Init	8	static
+main.c:101:6:BMP280_get_calib_values	40	static
+main.c:121:6:BMP280_calc_values	88	static
+main.c:177:6:Conf_SPI1_Master	32	static

@@ -1,0 +1,2 @@
+print_usart.c:3:6:Print_USART3	16	static
+print_usart.c:12:6:Conf_USART3	32	static
